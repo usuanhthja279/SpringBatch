@@ -1,0 +1,10 @@
+1,Sushant,Jha,abc@gmail.com
+2,Prashant,Jha,b@gmail.com
+3,Ravik,Ganguly,c@gmail.com
+4,Pranab,Singh,d@gmail.com
+5,Twitter,Kumar,e@hotmail.com
+6,Fabulous,Rani,f@yahoo.mail
+7,Sanjay,Jha,g@gmail.com
+8,Punam,Jha,h@gmail.com
+9,Umesh,Rathi,i@hotmail.com
+10,Rami,Malik,aaabb@yahoo.hotmail
